@@ -27,3 +27,7 @@ Contact:
 
 DIFFICULTIES
 The main struggles I had when doing this website was the amount of time it required me and by attempting to use a template I had to re-arrange all the links, deactivate a lot more and reorganize many times the main structure myself to make it look better. I also attempted 3 different templates till the last one finally worked.
+
+CONCLUSION:
+
+My conclusion is that html and css are both really interesting programs that reqquiere alot of practice and imagination. I liked working with them even though they where a real nightmare in certain parts of this journey.
