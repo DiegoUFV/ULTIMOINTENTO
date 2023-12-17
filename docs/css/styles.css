@@ -840,7 +840,7 @@
    .blog-name {
      display: inline-block;
      margin-bottom: 0px;
-     font-size: 53px;
+     font-size: 60px;
      line-height: 57px;
      letter-spacing: 1px;
    }
@@ -1084,3 +1084,44 @@
        font-size: 24px;
      }
    }
+   .container {
+    display: flex;
+}
+
+.left-column {
+    flex: 1; 
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+
+
+.right-column {
+    flex: 1; 
+    padding: 40px;
+    background-color: #e0e0e0;
+}
+
+
+.image {
+    max-width: 400px;
+    height: 400px; 
+    display: block; 
+    margin: 0 auto; 
+}
+
+
+.table {
+    width: 100%; 
+    border-collapse: collapse; 
+}
+
+
+.table td, .table th {
+    border: 3px solid #dddddd;
+    padding: 5px;
+    text-align: left;
+}
+
+.table th {
+    background-color: #f2f2f2;
+}
